@@ -1,0 +1,16 @@
+version: '3.8'
+services:
+  in-memory-db:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    ports:
+      - "8080:8080"
+    deploy:
+      replicas: 3
+    networks:
+      - db-network
+
+networks:
+  db-network:
+    driver: bridge

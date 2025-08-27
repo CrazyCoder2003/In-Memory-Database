@@ -1,0 +1,72 @@
+Start testing: Aug 27 20:35 IST
+----------------------------------------------------------
+1/4 Testing: AllocatorTests
+1/4 Test: AllocatorTests
+Command: "/Users/ayush/CLionProjects/CPP_project/build/test_allocator"
+Directory: /Users/ayush/CLionProjects/CPP_project/build
+"AllocatorTests" start time: Aug 27 20:35 IST
+Output:
+----------------------------------------------------------
+MemoryPool test passed!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"AllocatorTests" end time: Aug 27 20:35 IST
+"AllocatorTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: HashmapTests
+2/4 Test: HashmapTests
+Command: "/Users/ayush/CLionProjects/CPP_project/build/test_hashmap"
+Directory: /Users/ayush/CLionProjects/CPP_project/build
+"HashmapTests" start time: Aug 27 20:35 IST
+Output:
+----------------------------------------------------------
+LockFreeHashMap test passed!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"HashmapTests" end time: Aug 27 20:35 IST
+"HashmapTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: ParserTests
+3/4 Test: ParserTests
+Command: "/Users/ayush/CLionProjects/CPP_project/build/test_parser"
+Directory: /Users/ayush/CLionProjects/CPP_project/build
+"ParserTests" start time: Aug 27 20:35 IST
+Output:
+----------------------------------------------------------
+Parser test passed!
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTests" end time: Aug 27 20:35 IST
+"ParserTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: DatabaseTests
+4/4 Test: DatabaseTests
+Command: "/Users/ayush/CLionProjects/CPP_project/build/test_database"
+Directory: /Users/ayush/CLionProjects/CPP_project/build
+"DatabaseTests" start time: Aug 27 20:35 IST
+Output:
+----------------------------------------------------------
+CREATE TABLE test passed!
+INSERT test passed!
+SELECT result: 1 | John | john@example.com
+
+SELECT test passed!
+All database tests passed!
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"DatabaseTests" end time: Aug 27 20:35 IST
+"DatabaseTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 27 20:35 IST

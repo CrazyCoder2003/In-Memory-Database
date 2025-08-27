@@ -1,0 +1,5 @@
+AllocatorTests 1 0.0303445
+HashmapTests 1 0.031027
+ParserTests 1 0.0366029
+DatabaseTests 1 0.0371581
+---

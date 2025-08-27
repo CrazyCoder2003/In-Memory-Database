@@ -1,0 +1,10 @@
+/Users/ayush/CLionProjects/CPP_project/build/CMakeFiles/db_core.dir
+/Users/ayush/CLionProjects/CPP_project/build/CMakeFiles/in-memory-db.dir
+/Users/ayush/CLionProjects/CPP_project/build/CMakeFiles/test_allocator.dir
+/Users/ayush/CLionProjects/CPP_project/build/CMakeFiles/test_hashmap.dir
+/Users/ayush/CLionProjects/CPP_project/build/CMakeFiles/test_parser.dir
+/Users/ayush/CLionProjects/CPP_project/build/CMakeFiles/test_database.dir
+/Users/ayush/CLionProjects/CPP_project/build/CMakeFiles/benchmark_vs_sqlite.dir
+/Users/ayush/CLionProjects/CPP_project/build/CMakeFiles/test.dir
+/Users/ayush/CLionProjects/CPP_project/build/CMakeFiles/edit_cache.dir
+/Users/ayush/CLionProjects/CPP_project/build/CMakeFiles/rebuild_cache.dir

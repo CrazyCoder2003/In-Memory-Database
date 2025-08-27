@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libdb_core.a CMakeFiles/db_core.dir/src/storage/Database.cpp.o CMakeFiles/db_core.dir/src/parser/QueryParser.cpp.o CMakeFiles/db_core.dir/src/allocator/MemoryPool.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libdb_core.a

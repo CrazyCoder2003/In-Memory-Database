@@ -23,7 +23,7 @@ It supports creating tables, inserting rows, selecting data, and basic storage u
 ```bash
 mkdir build && cd build
 cmake ..
-make
+make -j4
 ```
 
 ### 2. Run the main program
